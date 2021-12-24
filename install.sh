@@ -14,4 +14,4 @@ yarn add @emotion/react
 yarn build:production
 clear
 php /var/www/pterodactyl/artisan up
-echo "Dark N red theme Installed"
+echo "Dark N Blue theme Installed"
