@@ -1,12 +1,12 @@
 :root {
-  --main-bg-color: #282a36 !important;
-  --secondary-bg-color: #242631 !important;
-  --secondary-bg-color-alt: #20222c !important;
-  --accent-color: #DC143C !important;
-  --accent-secondary-color: #DC143C !important;
-  --text-color: #fafafa !important;
-  --border-radius: 4px !important;
-  --accent-light: #F08080 !important;
+    --main-bg-color: #282a36 !important;
+    --secondary-bg-color: #242631 !important;
+    --secondary-bg-color-alt: #20222c !important;
+    --accent-color: #1e98a7 !important;
+    --accent-secondary-color: #1e98a7 !important;
+    --text-color: #a0dde5 !important;
+    --border-radius: 4px !important;
+    --accent-light: #a0dde5 !important;
 }
 
 /* Changes Background */
