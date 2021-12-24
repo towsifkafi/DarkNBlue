@@ -108,6 +108,19 @@ body, .content-wrapper {
 	display: none !important;
 }
 
+/* Changes nav Bar */
+
+.fmPgAW svg {
+    color: var(--accent-color) !important;
+}
+
+.fmPgAW > a:active, .fmPgAW > button:active, .fmPgAW > .navigation-link:active, .fmPgAW > a:hover, .fmPgAW > button:hover, .fmPgAW > .navigation-link:hover {
+    --tw-text-opacity: 1;
+    color: var(--accent-light);
+    --tw-bg-opacity: 1;
+}
+
+
 /* Changes disabled switch */
 
 .gdhLjd>label,
