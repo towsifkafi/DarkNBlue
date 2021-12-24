@@ -7,6 +7,7 @@
     --text-color: #a0dde5 !important;
     --border-radius: 4px !important;
     --accent-light: #a0dde5 !important;
+	--bg-image: url(https://wallpaperaccess.com/full/2915359.jpg) !important;
 }
 
 
@@ -14,6 +15,11 @@
 
 body, .content-wrapper {
 	background-color: var(--main-bg-color) !important;
+	background-image: var(--bg-image) !important;
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
+	background-position: center center;
+	opacity: 0.95;
 }
 
 
